@@ -6,7 +6,7 @@ public class Milan : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        print("Viktrius el supermus");
 	}
 	
 	// Update is called once per frame
