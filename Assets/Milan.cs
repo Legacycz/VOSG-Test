@@ -6,7 +6,7 @@ public class Milan : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        Debug.Log("Filip Navrátil");
 	}
 	
 	// Update is called once per frame
