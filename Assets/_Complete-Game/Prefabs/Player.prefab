@@ -67,7 +67,7 @@ GameObject:
   - component: {fileID: 11400002}
   - component: {fileID: 13600000}
   - component: {fileID: 8200002}
-  - component: {fileID: 114001589776495218}
+  - component: {fileID: 114624538292731940}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -4028,7 +4028,7 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 100006}
   m_IsPrefabParent: 1
---- !u!114 &114001589776495218
+--- !u!114 &114624538292731940
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
