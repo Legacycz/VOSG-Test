@@ -3,6 +3,9 @@
 Library
 Temp
 obj
+.vs
+*.vs
+.vs/*
 
 # Folders designed to be part of repository, but not their content
 /Assets/exports/*
