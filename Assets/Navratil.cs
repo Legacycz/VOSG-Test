@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Milan : MonoBehaviour {
+public class Navratil : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        print("Hello, I'm Terka");
+		
 	}
 	
 	// Update is called once per frame
